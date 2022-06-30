@@ -1,3 +1,6 @@
+
+<img width="509" alt="travel journal" src="https://user-images.githubusercontent.com/92802904/176707946-786eadcf-5daf-44a0-bf9b-a5b5044c1deb.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
