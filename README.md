@@ -1,5 +1,6 @@
-
-<img width="509" alt="travel journal" src="https://user-images.githubusercontent.com/92802904/176707946-786eadcf-5daf-44a0-bf9b-a5b5044c1deb.png">
+<p align="center">
+ <img width="509" alt="travel journal" src="https://user-images.githubusercontent.com/92802904/176707946-786eadcf-5daf-44a0-bf9b-a5b5044c1deb.png">
+</p>
 
 # Getting Started with Create React App
 
